@@ -8,7 +8,12 @@ app/storage/
 # Laravel 5 & Lumen specific
 bootstrap/cache/
 storage/
+/public/storage
+Homestead.yaml
+Homestead.json
 .env.*.php
 .env.php
 .env
-.env.example
+
+# phpstorm
+.idea
