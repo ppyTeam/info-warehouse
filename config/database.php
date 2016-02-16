@@ -65,6 +65,20 @@ return [
             'engine'    => null,
         ],
 
+        'info_bright' => [
+            'driver'    => 'mysql',
+            'host'      => env('INFO_DB_HOST', 'localhost'),
+            'port'      => env('INFO_DB_PORT', '5029'),
+            'database'  => env('INFO_DB_DATABASE', 'forge'),
+            'username'  => env('INFO_DB_USERNAME', 'forge'),
+            'password'  => env('INFO_DB_PASSWORD', ''),
+            'charset'   => 'utf8',
+            'collation' => 'utf8_unicode_ci',
+            'prefix'    => '',
+            'strict'    => false,
+            'engine'    => null,
+        ],
+
         'pgsql' => [
             'driver'   => 'pgsql',
             'host'     => env('DB_HOST', 'localhost'),
