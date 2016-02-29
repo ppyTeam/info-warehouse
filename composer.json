@@ -6,7 +6,9 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.2.*",
+        "caouecs/laravel4-lang": "~2.0",
+        "overtrue/laravel-lang": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
