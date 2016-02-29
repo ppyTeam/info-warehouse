@@ -5,10 +5,10 @@
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
             <div class="panel panel-default">
-                <div class="panel-heading">首页</div>
+                <div class="panel-heading">仪表板</div>
 
                 <div class="panel-body">
-                    欢迎使用InfoWarehouse.                    
+                    您已登录!
                 </div>
             </div>
         </div>
