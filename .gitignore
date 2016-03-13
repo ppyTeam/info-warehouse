@@ -10,9 +10,11 @@ app/storage/
 /public/storage
 Homestead.yaml
 Homestead.json
+
 .env.*.php
 .env.php
 .env
 
 # phpstorm
 .idea
+_ide_helper.php
